@@ -8,3 +8,37 @@
 img {
     max-width: 100%;
 }
+
+/* COMMON */
+/* LEYOUT */
+
+.flex-container {
+    display: flex;
+    width: 40%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+/* HEADER */
+header {
+    background-color: aqua;
+    height: 40px;
+    align-items: center;
+    display: flex;
+}
+
+
+.menu{
+    justify-content: space-between;
+    background-color: yellow;
+    align-items: center;
+}
+
+
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+/* MAIN */
+/* Stats section */
