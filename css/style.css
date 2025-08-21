@@ -39,6 +39,18 @@ li {
     display: inline;
     list-style-type: none;
 }
+.hero{
+    background-color: blue;
+    height: 120px;
+    padding: 20px;
+}
+
+.hero-content {
+    margin: 0 auto;
+    background-color: pink;
+    width: 80%;
+    
+}
 
 /* MAIN */
 /* Stats section */
